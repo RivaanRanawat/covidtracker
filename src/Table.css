@@ -3,6 +3,7 @@
     overflow: scroll;
     height: 400px;
     color: #6a5d5d;
+    font-family: 'Lato', sans-serif;
 }
 
 .table tr{
